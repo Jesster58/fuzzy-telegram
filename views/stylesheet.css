@@ -1,9 +1,9 @@
 body {
-  padding-left: 2%;
-  padding-right: 2%;
+  padding-left: 2vw;
+  padding-right: 2vw;
 }
 #main_block {
-  font-size: 1vw;
+
 }
 #logo {
   font-family: 'Bungee Shade';
