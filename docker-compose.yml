@@ -47,13 +47,13 @@ volumes:
     driver: local
     driver_opts:
       type: none
-      device: /home/jassy/node_project/dhparam/
+      device: /home/jassy/sparkly_pro/dhparam/
       o: bind
   web-root:
     driver: local
     driver_opts:
       type: none
-      device: /home/jassy/node_project/views/
+      device: /home/jassy/sparkly_pro/views/
       o: bind
 
 networks:
