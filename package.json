@@ -1,13 +1,13 @@
 {
-  "name": "nodejs-image-demo",
+  "name": "sparkly-pro",
   "version": "1.0.0",
-  "description": "nodejs image demo",
-  "author": "katjuell <kathleenjuell@gmail.com>",
+  "description": "static website portfolio",
+  "author": "Jesse Weston (Jesster58@gmail.com)",
   "license": "MIT",
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/katjuell/nodejs-image-demo.git"
+    "url": "https://github.com/Jesster58/fuzzy-telegram"
   },
   "keywords": [
     "nodejs",
